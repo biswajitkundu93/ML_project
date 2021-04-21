@@ -1,0 +1,11 @@
+1. LinearRegression:
+        Mean :  2.95
+        Standard deviation :  3.38
+
+2. DecisionTreeRegressor
+        Mean :  3.19
+        Standard deviation :  4.21
+
+3. RandomForestRegressor
+        Mean :  2.19
+        Standard deviation :  2.45
